@@ -1,0 +1,151 @@
+*{
+    margin: 0 auto;
+    padding: 0px;
+}
+
+.banner{
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 240px;
+}
+
+
+.header{
+    background-image: url('../images/Banner\ Image.png');
+    background-size: cover;
+    width: 1320px;
+    height: 100vh;
+    border-radius: 16px;
+    position: relative;
+
+}
+.banner-title{
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 16px;
+}
+.banner-p{
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+}
+
+.category{
+    margin-top: 40px;
+text-align: center;
+}
+
+.off{
+    color: #F00;
+text-align: center;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 120px;
+margin-bottom: 48px;
+}
+
+.holiday{
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.ac{
+    color: #070211;
+
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.fi{
+    margin-top: 30px;
+}
+
+.bg{
+    background-image: url('../images/Vectorrr.png');
+    width: 1320px;
+height: 600px;
+display: flex;
+justify-content: space-between;
+margin-top: 120px;
+}
+
+.bgm{
+    margin-top: 126px;
+    position: relative;
+}
+.greety{
+    color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px; /* 137.5% */
+letter-spacing: 7.04px;
+margin-left: 126px;
+}
+
+.paragraph{
+    color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+margin-left: 126px;
+}
+
+.photo{
+    margin-top: 120px;
+}
+
+.btn{
+    margin-left: 126px;
+}
+
+.next{
+    margin-top: 120px;
+    text-align: center;
+}
+
+
+.color{
+    color: #F00;
+}
+.color2{
+    color: #F00;
+}
+.c3{
+    color: #F00;
+}
+ 
+.im{
+    justify-content: center;
+}
+
+.btn-p{
+background: #F00;
+border: 0;
+color: white;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+padding: 15px 35px;
+}
+
+.next{
+    background-color: #FFF8F3;
+}
